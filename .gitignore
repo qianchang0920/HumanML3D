@@ -1,0 +1,7 @@
+amass_data/
+body_models/
+joints/
+HumanML3D/
+pose_data/
+
+*__pycache__*
